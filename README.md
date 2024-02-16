@@ -10,6 +10,6 @@ This file includes a website with some basic information about me as an illustra
 
 1. home: a quick introduction into the website
 
-2. class: a summary and description of the topics we discussed in class
+2. class subjects: a summary and description of the topics we discussed in class
 
 3. about: a summary about contact info aswell as a cv and portfolio
